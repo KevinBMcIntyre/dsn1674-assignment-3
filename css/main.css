@@ -25,7 +25,20 @@ Blockquote span {
 	font-size: 2rem;
 		color:#79756f;
 }
-
 dt{
 	font-weight: bold;
+}
+ol {
+	list-style-type: lower-roman;
+}
+.different {
+	color:#79756f;
+}
+ol span {
+	list-style-type: circle;
+	line-height: 1.5;
+}
+figcaption {
+	font-size: .75rem;
+	font-style: italic;
 }
