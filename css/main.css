@@ -5,6 +5,7 @@ h1, h2, h3 {
 html{
 	background-color:#dbd6cf;
 	font-family: arial, sans-serif;
+	line-height: 1.5;
 }
 a{
 	color:#763837;
@@ -15,10 +16,9 @@ a:hover{
 nav ol {
 	list-style-type:none;
 	padding: 0;
-	line-height: 1.5;
 }
 Blockquote{
-	font-style: georgia, serif;
+	font-family: georgia, serif;
 	font-style: italic;
 }
 Blockquote span {
@@ -31,14 +31,19 @@ dt{
 ol {
 	list-style-type: lower-roman;
 }
-.different {
+b {
 	color:#79756f;
+	font-weight:normal;
 }
 ol span {
 	list-style-type: circle;
-	line-height: 1.5;
 }
 figcaption {
-	font-size: .75rem;
+	font-size: .8rem;
 	font-style: italic;
+}
+blockquote div {
+	text-align: right;
+	font-size: .8rem;
+	color:#79756f;
 }
