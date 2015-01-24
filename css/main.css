@@ -20,10 +20,12 @@ nav ol {
 Blockquote{
 	font-family: georgia, serif;
 	font-style: italic;
+	font-size: 1.25rem;
 }
 Blockquote span {
-	font-size: 2rem;
 		color:#79756f;
+		font-size: 2.5rem;
+		line-height: .75;
 }
 dt{
 	font-weight: bold;
