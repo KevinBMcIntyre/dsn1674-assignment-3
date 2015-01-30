@@ -37,7 +37,7 @@ b {
 	color:#79756f;
 	font-weight:normal;
 }
-ol span {
+.something {
 	list-style-type: circle;
 }
 figcaption {
